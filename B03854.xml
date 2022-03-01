@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of the late King James II. His letter to the Convention in Scotland. March 23, 168[⁹?].</title>
+            <author>James II, King of England, 1633-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03854</idno>
+            <idno type="STC">Wing J155C</idno>
+            <idno type="STC">ESTC R178835</idno>
+            <idno type="EEBO-CITATION">49521469</idno>
+            <idno type="OCLC">ocm 49521469</idno>
+            <idno type="VID">174156</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03854)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174156)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2670:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of the late King James II. His letter to the Convention in Scotland. March 23, 168[⁹?].</title>
+                  <author>James II, King of England, 1633-1701.</author>
+                  <author>Convention of Royal Burghs (Scotland)</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin, near the Black Bull in the Old-Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Imprimatur. James Fraser."</note>
+                  <note>Reproduction of original in: Llyfrgell Genedlaethol Cymru/National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Politics and government --  1689-1745.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:174156:1"/>
+            <head>A COPY of the Late King James II. HIS LETTER TO THE <hi>Convention in Scotland.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>March 23. 168<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</date> Imprimatur. <hi>James Fraſer.</hi>
+               </dateline>
+               <signed>JAMES R.</signed>
+               <argument>
+                  <p>To the Lords Spiritual and Temporal, the Commiſ<g ref="char:EOLhyphen"/>ſioners of Shires and Burroughs of Our antient Kingdom of <hi>Scotland,</hi> met or to meet at Our good Town of <hi>Edinburgh.</hi>
+                  </p>
+               </argument>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>WHereas We have been informed, that you the <hi>Peers</hi> and <hi>Repreſentatives</hi> of <hi>Shires</hi> and <hi>Bur<g ref="char:EOLhyphen"/>roughs</hi> of that Our antient Kindom, were to meet together at Our good Town of <hi>Edinburgh</hi> ſome time in this Inſtant <hi>March,</hi> by the <hi>
+                  <g ref="char:V">Ʋ</g>ſurped Authority</hi> of the Prince of <hi>Orange,</hi> We think fit to let you know, that as we have at all times <hi>Relied</hi> upon the <hi>Faithfulneſs</hi> and <hi>Affection</hi> of you Our ancient People, ſo much that in Our greateſt <hi>Misfortunes</hi> here<g ref="char:EOLhyphen"/>tofore We had Recourſe to your <hi>Aſſiſtance,</hi> and that with good ſucceſs to Our Affairs; ſo now again We require of you to <hi>ſupport</hi> Our Royal Intereſt, and expecting from you what becomes Loyal and Faithful Subjects, Generous and Ho<g ref="char:EOLhyphen"/>neſt men, that you will neither ſuffer your ſelves to be <hi>cajoled</hi> nor <hi>frightned</hi> into any Action misbecoming true-hearted <hi>Scots<g ref="char:EOLhyphen"/>men:</hi>
+               <pb n="2" facs="tcp:174156:2"/> and that to ſupport the Honour of the Nation, you will contemn the <hi>baſe Example</hi> of diſloyal men, and eternize your Names by a Loyalty ſuitable to the many Profeſſions you have made to Us. In doing whereof, you will chuſe the <hi>ſafeſt part;</hi> ſince thereby you will <hi>evite</hi> the <hi>Danger</hi> you muſt needs undergo, the <hi>Infamy</hi> and <hi>Diſgrace</hi> you muſt bring upon your ſelves in <hi>this World,</hi> and the <hi>Condemnation</hi> due to the <hi>Rebellious</hi> in the <hi>next;</hi> and you will likewiſe have the oppor<g ref="char:EOLhyphen"/>tunity to <hi>ſecure</hi> to your ſelves, and your <hi>Poſterity,</hi> the <hi>Graci<g ref="char:EOLhyphen"/>ous Promiſes We have ſo often made of ſecuring your Religions, Laws, Properties, Liberties, and Rights;</hi> which we are <hi>ſtill</hi> re<g ref="char:EOLhyphen"/>ſolved to <hi>perform,</hi> as ſoon as it is poſſible for Us to meet you ſafely in a Parliament in that Our ancient Kingdom.</p>
+            <p>In the mean time fear not to declare for Us the Lawful So<g ref="char:EOLhyphen"/>veraign, who will <hi>not fail</hi> in Our part, to give you ſuch ſpeedy and <hi>powerful Aſſiſtance,</hi> as ſhall not only inable you to defend your ſelves from any Forreign Attempt, but put you in a Con<g ref="char:EOLhyphen"/>dition to aſſert your Right againſt Our Enemies, who have depreſſed the ſame, by the blackeſt of Uſurpations, the moſt Unjuſt, as well as moſt Unnatural of Attempts; which Al<g ref="char:EOLhyphen"/>mighty God may for a time permit, and let the Wicked proſ<g ref="char:EOLhyphen"/>per, yet the End muſt bring <hi>Confuſion</hi> upon ſuch <hi>Workers of Iniquity.</hi> We further let you know, That we will Pardon all ſuch as ſhall Return to their Duty before the laſt Day of this Month incluſive<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> And that we will puniſh with the rigour of Our Laws, all ſuch as ſhall ſtand out in Rebellion againſt Us, or Our Authority. So not doubting that you will De<g ref="char:EOLhyphen"/>clare for Us, and Suppreſs whatever may oppoſe Our Intereſt: And that you will ſend ſome of your Number, with an Ac<g ref="char:EOLhyphen"/>count of your Diligence, and the Poſture of Our Affairs there, We bid you heartily Farewel.</p>
+            <closer>
+               <salute>
+                  <hi>Given on Board the St.</hi> Michael, <hi>the Firſt of</hi> March, 1689; <hi>and of Our Reign the Fifth Year.</hi>
+               </salute>
+               <signed>By His Majeſty's Command. <hi>MELFORT.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>R. Baldwin,</hi> near the <hi>Black Bull</hi> in the <hi>Old-Bailey.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
